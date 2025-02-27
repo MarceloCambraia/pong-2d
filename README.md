@@ -32,7 +32,7 @@ Player 1 Controls: Use the W and S keys to move the paddle up and down.
 
 Player 2 Controls: Use the Up Arrow and Down Arrow keys to move the paddle up and down.
 
-CPU Mode: Press Space to switch Player 2 back to CPU control.
+CPU Mode: Press Return to switch Player 2 back to CPU control.
 
 ## How It Was Programmed
 The game logic includes collisions between the ball, walls and the paddles.
