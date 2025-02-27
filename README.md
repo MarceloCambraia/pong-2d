@@ -26,6 +26,14 @@ If running from Unity Editor, open Unity and load the project.
 
 If using the built version, navigate to the Build folder and run the executable (Pong2D.exe on Windows or the equivalent for your OS).
 
+## How to Play
+
+Player 1 Controls: Use the W and S keys to move the paddle up and down.
+
+Player 2 Controls: Use the Up Arrow and Down Arrow keys to move the paddle up and down.
+
+CPU Mode: Press Space to switch Player 2 back to CPU control.
+
 ## How It Was Programmed
 The game logic includes collisions between the ball, walls and the paddles.
 
